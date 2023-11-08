@@ -24,7 +24,7 @@ This is a solution to the Pricing component with toggle challenge on Frontend Me
 ### Links
 
 - Solution URL: (https://github.com/ribikaY/pricing-with-toggle.git)
-- Live Site URL:()
+- Live Site URL:(https://ribika-pricing-with-toggle.netlify.app/)
 
 ## My process
 
@@ -52,7 +52,7 @@ I want to further improve my proficiency in Vanilla JavaScript. It's been a whil
 
 ### Useful resources
 
-- [resource 1](https://www.w3schools.com/howto/howto_css_switch.asp) - This helped me create and style the toggle switch.
+- [resource](https://www.w3schools.com/howto/howto_css_switch.asp) - This helped me create and style the toggle switch.
 
 
 ## Author

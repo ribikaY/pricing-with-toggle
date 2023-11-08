@@ -229,7 +229,7 @@ input:checked + .slider:before {
   }
 
   .toggle-container{
-    padding-bottom:62px;
+    padding: 37px 0 62px 0;
   }
   
   
