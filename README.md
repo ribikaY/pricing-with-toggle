@@ -54,7 +54,6 @@ I want to further improve my proficiency in Vanilla JavaScript. It's been a whil
 
 - [resource 1](https://www.w3schools.com/howto/howto_css_switch.asp) - This helped me create and style the toggle switch.
 
-```
 
 ## Author
 
