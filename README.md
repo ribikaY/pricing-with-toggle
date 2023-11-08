@@ -23,8 +23,8 @@ This is a solution to the Pricing component with toggle challenge on Frontend Me
 
 ### Links
 
-- Solution URL: (https://github.com/ribikaY/clipboard-landing-page.git)
-- Live Site URL:(https://clipboard-landing-page-lilac-psi.vercel.app/)
+- Solution URL: (https://github.com/ribikaY/pricing-with-toggle.git)
+- Live Site URL:()
 
 ## My process
 
